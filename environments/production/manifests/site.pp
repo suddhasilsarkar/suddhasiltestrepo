@@ -1,4 +1,5 @@
 node default {
-	include demofile
-             }
+	   include files
+           include logic1           
+  }
 
